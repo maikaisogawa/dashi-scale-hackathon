@@ -1,0 +1,31 @@
+Companies:
+1. BendDAO
+   - Description: Banking and liquidity for Web3
+   
+2. CoVault
+   - Description: Smart Vaults - Layer 1 Bitcoin Assets
+   
+3. ReHold
+   - Description: AI-powered financial ecosystem on Bitcoin
+   
+4. ChainRing
+   - Description: The only cross-chain DEX built on Bitcoin
+   
+5. Mushroom Finance
+   - Description: A yield farming optimizer within the BTC ecosystem
+   
+6. DoggyFi
+   - Description: A stack of DeFi products for Dogecoin. Starting with swaps
+   
+7. BRC137
+   - Description: An open DID Protocol for Bitcoin Socialverse
+   
+8. Ligo
+   - Description: A high-performance Bitcoin Layer 2 with an active global community
+   
+Supporting Companies:
+- ChainGPT: #1 ranked AI infrastructure for Blockchain, Crypto & Web3
+   
+Co-organizer:
+- Cypher Capital
+   - Description: A leading early-strategy venture firm focused on

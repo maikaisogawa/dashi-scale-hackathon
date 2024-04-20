@@ -21,4 +21,8 @@ note: this project was built for the Scale AI hackathon hosted at GitHub on Apri
 
 # file descriptions 
 
-this file is your weekly scraped deals that will be sent to Dashi for steeping. Dashi will review the deals and pick the ones that may be most relevant to your investment thesis.
+"scraped-data.txt" 
+this file will be continuously updated with inbound deal information from multiple sources.
+
+"gather.py"
+this agent takes the data from scraped-data.txt and extracts the startups and companies. 
