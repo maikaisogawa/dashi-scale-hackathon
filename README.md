@@ -1,4 +1,4 @@
-# dashi-scale-hackathon
+# dashi
 steeping the next unicorn through dashi
 
 who
@@ -16,3 +16,5 @@ why
 
 i'm building dashi to deal-source promising startups and founders.
 i'm also building dashi to reduce the natural gap that exists for minorities due to traditional sourcing methods (network, access).
+
+note: this project was built for the Scale AI hackathon hosted at GitHub on April 20 (420 tokeitup), 2024
