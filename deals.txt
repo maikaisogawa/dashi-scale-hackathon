@@ -1,31 +1,11 @@
-Companies:
-1. BendDAO
-   - Description: Banking and liquidity for Web3
-   
-2. CoVault
-   - Description: Smart Vaults - Layer 1 Bitcoin Assets
-   
-3. ReHold
-   - Description: AI-powered financial ecosystem on Bitcoin
-   
-4. ChainRing
-   - Description: The only cross-chain DEX built on Bitcoin
-   
-5. Mushroom Finance
-   - Description: A yield farming optimizer within the BTC ecosystem
-   
-6. DoggyFi
-   - Description: A stack of DeFi products for Dogecoin. Starting with swaps
-   
-7. BRC137
-   - Description: An open DID Protocol for Bitcoin Socialverse
-   
-8. Ligo
-   - Description: A high-performance Bitcoin Layer 2 with an active global community
-   
-Supporting Companies:
-- ChainGPT: #1 ranked AI infrastructure for Blockchain, Crypto & Web3
-   
-Co-organizer:
-- Cypher Capital
-   - Description: A leading early-strategy venture firm focused on
+BendDAO: Banking and liquidity for Web3  
+CoVault: Smart Vaults - Layer 1 Bitcoin Assets  
+ReHold: AI-powered financial ecosystem on Bitcoin  
+ChainRing: The only cross-chain DEX built on Bitcoin  
+Mushroom Finance: A yield farming optimizer within the BTC ecosystem  
+DoggyFi: A stack of DeFi products for Dogecoin  
+BRC137: An open DID Protocol for Bitcoin Socialverse  
+Ligo: A high performance Bitcoin Layer 2 with an active global community  
+Cypher Capital: A leading early-strategy venture firm focused on investing in Web3 infrastructure and applications  
+Paysenger: The best place for creators to provide exclusive access to their work and to get deeper connection with their communities  
+Guru: Secure, reliable, and the most convenient tool for DEX trading on Telegram for both novices and experienced crypto traders

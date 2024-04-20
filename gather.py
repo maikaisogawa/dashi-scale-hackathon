@@ -23,7 +23,7 @@ def parse():
       messages=[
         {
           "role": "system",
-          "content": "You will read the following text and extract the companies and deals mentioned in the text. You will write the extracted data to a new file called extracted-data.txt. In your response, include the company name and any relevant information that exists in the text itself to give more context on what the company does or the founders. Do not include any additional text beyond the companies and context around companies."
+          "content": "You will read the following text and extract the companies and deals mentioned in the text. You will write the extracted data to a new file called extracted-data.txt. In your response, only include the company name and any relevant information that exists in the text itself to give more context on what the company does or the founders. Only include the company name and description. Do NOT return any additional information in your response. Include as many companies and deals as you can find in the entire txt file."
         },
         {
           "role": "user",

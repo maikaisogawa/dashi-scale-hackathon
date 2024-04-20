@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashi</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="dashi-app.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #3E4D3A;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            color: #ffffff; 
+            font-family: 'Poppins', sans-serif;
+        }
+        form {
+            background: #ffffff00;
+            padding: 20px;
+            border-radius: 8px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        input[type="text"] {
+            text-align: center;
+            width: 500px;
+            height: 60px; 
+            border-radius: 1px;
+        }
+    </style>
+</head>
+<body>
+    <form id="thesis">
+        <label for="flavors">Dashi wants to know your investment thesis and the kind of companies you're looking for.</label><br>
+        <input type="text" id="flavors" name="flavors"><br>
+        <input type="submit" value="simmer">
+    </form>
+</body>
+</html>

@@ -1,0 +1,31 @@
+body {
+    background-color: #3E4D3A;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#kombu-image {
+    width: 100px; /* Adjust as needed */
+    height: auto;
+    margin-bottom: 20px; /* Adjust as needed */
+}
+
+button {
+    margin-top: 20px; /* Adjust as needed */
+}
+
+#subtle-text {
+    position: fixed;
+    bottom: 10px; /* Adjust as needed */
+    width: 100%;
+    font-size: 0.8em; /* Adjust as needed */
+    color: #878787; /* Adjust as needed */
+    text-align: center;
+}
