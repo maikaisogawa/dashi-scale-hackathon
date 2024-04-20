@@ -18,3 +18,7 @@ i'm building dashi to deal-source promising startups and founders.
 i'm also building dashi to reduce the natural gap that exists for minorities due to traditional sourcing methods (network, access).
 
 note: this project was built for the Scale AI hackathon hosted at GitHub on April 20 (420 tokeitup), 2024
+
+# file descriptions 
+
+this file is your weekly scraped deals that will be sent to Dashi for steeping. Dashi will review the deals and pick the ones that may be most relevant to your investment thesis.
