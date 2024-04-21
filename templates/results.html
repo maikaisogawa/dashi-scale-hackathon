@@ -9,10 +9,14 @@
     <a href="/">
         <img id="kombu-logo" src="../static/kombu.png" alt="Kombu">
     </a>
-    <form id="thesis" method="POST" action="/process-form">
-        <label for="thesis">dashi wants to know your investment thesis and the kind of companies you're looking for.</label><br>
-        <textarea id="flavors" name="flavors"></textarea><br>
-        <input type="submit" value="simmer">
+    <h1>what's cooking this week:</h1>
+    <p>1. {{ result1 }}</p>
+    <p>2. {{ result2 }}</p>
+    <p>3. {{ result3 }}</p>
+    <form id="email-capture" method="POST" action="/success">
+        <label for="email">want the hottest recommendations weekly? sign up for dashi:</label><br>
+        <input type="email" id="email" name="email" required><br>
+        <input type="submit" value="Submit">
     </form>
     <div id="subtle-text">the better recipe you give, the better flavors your dashi will have!</div>
 </body>

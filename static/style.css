@@ -9,23 +9,45 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 #kombu-image {
-    width: 100px; /* Adjust as needed */
+    width: 100px; 
     height: auto;
-    margin-bottom: 20px; /* Adjust as needed */
+    margin-bottom: 20px;
 }
 
 button {
-    margin-top: 20px; /* Adjust as needed */
+    margin-top: 20px;
 }
 
 #subtle-text {
     position: fixed;
-    bottom: 10px; /* Adjust as needed */
+    bottom: 10px;
     width: 100%;
-    font-size: 0.8em; /* Adjust as needed */
-    color: #878787; /* Adjust as needed */
+    font-size: 0.8em; 
+    color: #878787;
     text-align: center;
+}
+
+#kombu-logo {
+    position: absolute;
+    left: 30px; 
+    top: 30px;
+    width: 80px;
+    height: auto;
+}
+
+#flavors {
+    width: 80%;
+    height: 100px; 
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#email-capture {
+    margin-top: 50px;
+    color: #878787;
 }
